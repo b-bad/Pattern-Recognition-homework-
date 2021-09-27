@@ -1,5 +1,4 @@
 import collections
-# test
 
 class NAIVE_BAYES(object):
 
